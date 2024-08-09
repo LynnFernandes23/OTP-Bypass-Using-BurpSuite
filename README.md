@@ -1,2 +1,3 @@
 ﻿# OTP-Bypass-Using-BurpSuite
-This project demonstrates the process of bypassing One-Time Password (OTP) authentication using Burp Suite. OTP bypass is a critical security issue that, if not properly mitigated, can expose systems to unauthorized access. This guide is for educational purposes only and should be used responsibly.
+This repository demonstrates the process of bypassing One-Time Password (OTP) authentication using Burp Suite, a powerful web vulnerability scanner. The project is designed for educational purposes to showcase potential vulnerabilities in OTP implementation and provide insights on how to secure against such attacks. It includes step-by-step instructions on intercepting, analyzing, and manipulating OTP requests, along with best practices for mitigating these vulnerabilities.
+
